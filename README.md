@@ -4,7 +4,7 @@
 
 [![Live Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-tonyisaacg.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tonyisaacg.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony_Isaac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-isaac)
-[![HackerRank](https://img.shields.io/badge/HackerRank-programmer2020s1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/programmer2020s1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-antonyisaacgayed-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/antonyisaacgayed)
 [![Email](https://img.shields.io/badge/Email-antonyisaacgayed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonyisaacgayed@gmail.com)
 
 > *I focus on translating complex enterprise requirements into maintainable, scalable, and secure production-grade software.*
@@ -58,5 +58,5 @@
 - 🌐 **Interactive Portfolio:** [tonyisaacg.github.io](https://tonyisaacg.github.io/)
 - 💼 **LinkedIn:** [linkedin.com/in/tony-isaac](https://www.linkedin.com/in/tony-isaac)
 - 💻 **GitHub:** [@tonyisaacG](https://github.com/tonyisaacG)
-- 🏆 **HackerRank:** [programmer2020s1](https://www.hackerrank.com/programmer2020s1)
+- 🏆 **HackerRank:** [profile/antonyisaacgayed](https://www.hackerrank.com/profile/antonyisaacgayed)
 - 📧 **Direct Email:** [antonyisaacgayed@gmail.com](mailto:antonyisaacgayed@gmail.com)
