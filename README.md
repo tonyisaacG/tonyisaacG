@@ -1,68 +1,62 @@
-# 👋 Hi, I'm Antony Isaac
+# 👋 Hi, I'm Antony Isaac Gayed
 
-A results-driven Senior **Backend Engineer** specializing in building robust enterprise architectures, high-performance APIs, and financial middleware solutions using the **.NET ecosystem**.
+**Senior Backend Engineer** specializing in robust enterprise architectures, high-performance APIs, and financial middleware solutions using the **.NET ecosystem**.
 
-I focus on translating complex business requirements into maintainable, scalable, and secure production-grade software.
+[![Live Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-tonyisaacg.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tonyisaacg.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony_Isaac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-isaac)
+[![HackerRank](https://img.shields.io/badge/HackerRank-programmer2020s1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/programmer2020s1)
+[![Email](https://img.shields.io/badge/Email-antonyisaacgayed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonyisaacgayed@gmail.com)
+
+> *I focus on translating complex enterprise requirements into maintainable, scalable, and secure production-grade software.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Architecture
 
-- **Backend Technologies:** ASP.NET Core, Web API, C#, Entity Framework Core, LINQ, OOP, ASP.NET MVC.
-- **Architecture & Design:** Clean Architecture, CQRS, Modular Monolithic Architecture, Multi-Tenant Architecture.
-- **Databases & Caching:** SQL Server, MySQL, SQLite, Redis.
-- **Security & Authentication:** JWT, HMAC, Rate Limiting, Role-Based Access Control (RBAC).
-- **Tools & Utilities:** Serilog, Quartz.NET, Hangfire, Git & GitHub, Postman, Jira.
-- **Frontend Familiarity:** Angular, JavaScript (ES6), HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, jQuery, Ajax.
+- **Backend:** C# · .NET 8 / 9 · ASP.NET Core · Web API · Entity Framework Core · LINQ · ASP.NET MVC
+- **Architecture & Design:** Clean Architecture · CQRS · Modular Monolith · Multi-Tenancy · Offline-First Systems
+- **Databases & Caching:** SQL Server · Redis (Distributed Caching) · MySQL · SQLite
+- **Security & Integrity:** HMAC Signatures · JWT · Role-Based Access Control (RBAC) · Rate Limiting
+- **Background Jobs & Tools:** Quartz.NET · Hangfire · Serilog · Git & GitHub Actions · Postman
+- **Frontend & UI:** Angular · TypeScript · JavaScript (ES6) · HTML5 / SCSS · Bootstrap · Tailwind CSS
 
 ---
 
 ## 💼 Core Professional Experience & Business Impact
 
-### Retail Management System (RMS)
+### 🏢 Retail Management System (RMS)
+*Enterprise-grade commercial infrastructure management solution streamlining multi-branch POS operations, inventory tracking, and real-time storefront sales analytics.*
+- Engineered resilient transactional web services using **Modular Monolithic** and **Clean Architecture**.
+- Implemented **CQRS** pattern to decouple read/write paths, improving query throughput by **40%**.
+- Designed and delivered **Offline-First** architecture ensuring 100% store uptime during connectivity drops.
+- Integrated distributed **Redis Caching** for active sessions, reducing primary database load by **30%**.
 
-An enterprise-grade commercial infrastructure management solution designed to streamline multi-branch Point-of-Sale (POS) operations, inventory management, and real-time storefront sales analytics.
+### 🏛️ Egyptian Tax Authority (ETA) Middleware Gateway
+*Secure B2B financial compliance gateway automating legal invoice & receipt validation with the Egyptian Tax Authority portal.*
+- Built resilient API integration handlers synchronizing high-frequency sales data from external ERPs and platforms (**Shopify**, **Foodics**, **Odoo**).
+- Automated batch data reconciliation pipelines using scheduled **Quartz.NET** background jobs.
+- Hardened integration security with **custom cryptographic HMAC signatures** and tenant-based rate limiting.
+- Enforced strict **Multi-Tenant isolation** guaranteeing client data privacy.
 
-**Highlights:**
-
-- Engineered resilient transactional web services using **Modular Monolithic** architecture.
-- Implemented the **CQRS** pattern to decouple read and write operations, improving performance by **40%**.
-- Designed and implemented **Offline-First** architecture for reliable operation in low-connectivity environments.
-- Applied distributed **Redis Caching** for active sessions, reducing database load by **30%**.
-
-### ETA Middleware Platform
-
-A secure B2B financial compliance gateway that automates tax validation and direct commercial invoice legalization with the Egyptian Tax Authority portal.
-
-**Highlights:**
-
-- Built robust API integration handlers to synchronize sales data from external platforms such as **Shopify** and **Foodics**.
-- Developed automated batch data pipelines using scheduled **Quartz.NET** background jobs.
-- Strengthened security with **custom HMAC cryptographic signatures** and tenant-based rate limiting.
-- Implemented **Multi-Tenancy** support for secure data isolation across clients.
-
-### Financial CRM & Accounting Platform
-
-A multi-tenant SaaS platform tailored for accounting firms to manage client taxation lifecycles, payroll reporting, and historical ledger audits.
-
-**Highlights:**
-
-- Integrated government web portals to automate historical tax record retrieval, enabling accountants to efficiently generate and upload required tax reports.
-- Refactored database schemas and indexes, accelerating financial report generation by **35%**.
-- Enforced strict **Role-Based Access Control (RBAC)** to secure multi-tenant endpoints and data boundaries.
+### 📊 Financial CRM & Accounting Platform
+*Multi-tenant SaaS platform tailored for accounting firms to manage corporate taxation lifecycles, payroll reporting, and historical audits.*
+- Automated government portal record retrieval, accelerating accountant reporting workflows.
+- Refactored database schemas and indexing strategies, accelerating heavy financial report generation by **35%**.
+- Enforced strict **Role-Based Access Control (RBAC)** to secure multi-tenant endpoints and confidential client ledgers.
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Continuous Growth & Research
 
-- **Distributed Systems:** Designing resilient service boundaries and managing eventual consistency.
-- **Event-Driven Architecture:** Leveraging message brokers for high-throughput asynchronous messaging.
+- **Distributed Systems:** Designing resilient service boundaries, fault tolerance, and eventual consistency.
+- **Event-Driven Architecture:** High-throughput asynchronous messaging and event sourcing patterns.
 
 ---
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** https://www.linkedin.com/in/tony-isaac
-- **GitHub:** https://github.com/tonyisaacG
-- **HackerRank:** https://www.hackerrank.com/programmer2020s1
-- **Email:** antonyisaacgayed@gmail.com
+- 🌐 **Interactive Portfolio:** [tonyisaacg.github.io](https://tonyisaacg.github.io/)
+- 💼 **LinkedIn:** [linkedin.com/in/tony-isaac](https://www.linkedin.com/in/tony-isaac)
+- 💻 **GitHub:** [@tonyisaacG](https://github.com/tonyisaacG)
+- 🏆 **HackerRank:** [programmer2020s1](https://www.hackerrank.com/programmer2020s1)
+- 📧 **Direct Email:** [antonyisaacgayed@gmail.com](mailto:antonyisaacgayed@gmail.com)
